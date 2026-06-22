@@ -1,4 +1,4 @@
 # Apna-farm
-this is my farmtohome reoisitory
+This is my FarmToHome Repositary
 <br>
 Founder - Bhavesh Sonavane
